@@ -1,4 +1,6 @@
 # Winter is coming
 Created by HY in 2019. 
 #MCV,#Learning never ends
-![Alt text](./Screen.png?raw=true "Optional Title")
+<div align="center">
+    <img src="./Screen.png" width="400px"</img> 
+</div>
